@@ -17,7 +17,7 @@ Kelas Product adalah kelas utama yang menjadi induk dari kelas Clothing dan Shir
 
 Kelas Clothing merupakan turunan dari kelas Product dan merupakan induk dari kelas Shirt. Kelas Clothing dapat menggunakan atribut dari kelas Product, dan setiap atribut yang dimiliki oleh kelas Clothing dapat digunakan oleh kelas Shirt. Kelas Clothing memiliki tiga atribut, yaitu size, material, dan gender. Setiap atribut bersifat privat dan memiliki metode get dan set yang bersifat publik agar dapat diakses oleh kelas lain.
 
-**3. Kelas Clothing**
+**3. Kelas Shirt**
 
 Kelas Shirt merupakan turunan dari kelas Clothing dan cucu dari kelas Product. Kelas Shirt dapat menggunakan semua atribut yang dimiliki oleh kelas Product dan kelas Clothing. Kelas Shirt memiliki dua atribut, yaitu color dan sleeve_type. Setiap atribut bersifat privat dan memiliki metode get dan set yang bersifat publik agar dapat diakses oleh kelas lain.
 
