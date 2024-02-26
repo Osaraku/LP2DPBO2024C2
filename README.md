@@ -11,3 +11,14 @@ seperti yang telah dispesifikasikan. Aamiin
 ## Penjelasan Desain Program
 
 ## Dokumentasi
+### Dokumentasi CPP
+![CPP program](CPP/Screenshot/screenshot.PNG)
+
+### Dokumentasi Java
+![Java program](Java/Screenshot/screenshot.PNG)
+
+### Dokumentasi Python
+![Python program](Python/Screenshot/screenshot.PNG)
+
+### Dokumentasi PHP
+![PHP program](PHP/Screenshot/screenshot.png)
