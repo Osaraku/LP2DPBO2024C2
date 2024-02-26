@@ -12,7 +12,7 @@ seperti yang telah dispesifikasikan. Aamiin
 
 ## Dokumentasi
 ### Dokumentasi CPP
-![CPP program](CPP/Screenshot/screenshot.PNG)
+![CPP program](CPP/Screenshot/Screenshot.png)
 
 ### Dokumentasi Java
 ![Java program](Java/Screenshot/screenshot.PNG)
