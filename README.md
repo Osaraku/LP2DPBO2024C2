@@ -15,10 +15,10 @@ seperti yang telah dispesifikasikan. Aamiin
 ![CPP program](CPP/Screenshot/Screenshot.png)
 
 ### Dokumentasi Java
-![Java program](Java/Screenshot/screenshot.PNG)
+![Java program](Java/Screenshot/Screenshot.png)
 
 ### Dokumentasi Python
-![Python program](Python/Screenshot/screenshot.PNG)
+![Python program](Python/Screenshot/Screenshot.png)
 
 ### Dokumentasi PHP
-![PHP program](PHP/Screenshot/screenshot.png)
+![PHP program](PHP/Screenshot/Screenshot.png)
